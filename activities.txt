@@ -1,0 +1,19 @@
+Atividade 1:
+Crie um programa que armazene cinco cidades e permita o usuário pesquisar se a cidade está na lista.
+
+Atividade 2:
+Criar um sistema de armazenamento e cálculo de notas utilizando structs.
+- Definir uma struct;
+- Implementar funcionalidades para cadastrar um aluno e calcular sua média.
+
+Atividade 3:
+Criar um sistema para armazenar informações de pessoas e seus respectivos endereços.
+- Definir uma struct Endereco
+- Criar uma struct Pessoa
+- Implementar funcionalidades para cadastrar e exibir informações de uma pessoa
+
+Atividade 4:
+Criar um sistema de gerenciamento de um pequeno catálogo de livros.
+- Definir a struct Livro
+- Criar um array de structs para armazenar até 5 livros
+- Implementar funcionalidades para cadastrar e listar os livros armazenados.
