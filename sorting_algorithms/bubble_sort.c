@@ -3,11 +3,16 @@
 void bubble_sort(int arr[], int size);
 
 int main() {
-  int num[10] = {7, 5, 10, 8, 1, 2, 4, 9, 6, 3};
+  int num[6];
 
-  bubble_sort(num, 10);
+  printf("Insert 6 random numbers:\n");
+  for (int i = 0; i < 6; ++i) {
+    scanf("%d", &num[i]);
+  }
 
-  for (int i = 0; i < 10; ++i) {
+  bubble_sort(num, 6);
+
+  for (int i = 0; i < 6; ++i) {
     printf("%d ", num[i]);
   }
 
